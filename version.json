@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "download_url": "https://github.com/<YOUR_USERNAME>/<REPO_NAME>/releases/download/v1.0.16/KnightComic_v1.0.16.zip",
+  "changelog": [
+    "Cập nhật core tải truyện đa luồng.",
+    "Fix lỗi không tải được trên một số trang web mới."
+  ],
+  "is_mandatory": false
+}
