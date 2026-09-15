@@ -2,7 +2,7 @@
 <item>
     <version>2.0.1.0</version>    
     <url>https://github.com/knightcomic/KnightComic-Releases/releases/download/v2.0.1/KnightComic.v2.0.1.zip</url>   
-    <changelog>https://raw.githubusercontent.com/knightcomic/KnightComic-Releases/refs/heads/main/changelog.html</changelog>   
+    <changelog>https://raw.githubusercontent.com/knightcomic/KnightComic-Releases/refs/heads/main/changelog.md</changelog>   
     <checksum algorithm="SHA256">8fae3e4065f85b02f7445e8fac0f43a1c42580e9be61df673c6b47bbdf3e502f</checksum>
 	<mandatory mode="1">false</mandatory>
 </item>
